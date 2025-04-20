@@ -35,7 +35,7 @@ Este MVP demuestra cómo se puede aplicar inteligencia artificial en la nube par
 
 La solución desarrollada esta implementada entre Python y AWS.
 
-<img src="images/Arquitectura.jpg" width=80%> <br>
+<img src="images/Arquitectura.jpg" width=100%> <br>
 
 ## Tecnologías Implementadas 💻
 
