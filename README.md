@@ -4,12 +4,6 @@
 
 ## Resumen 📋
 
-📌 Análisis de Fraude en Tarjetas de Crédito: Datos, Detección y Decisiones
-
-Cada año, el fraude con tarjetas de crédito le cuesta miles de millones al sistema financiero. Los bancos y empresas buscan frenar estas pérdidas, pero hay un reto enorme: ¿cómo detectar el fraude sin afectar la experiencia de los clientes?
-
-Los falsos positivos—cuando una transacción legítima es bloqueada por error—pueden frustrar a los usuarios y generar desconfianza en el sistema. Por eso, contar con métodos precisos y eficientes es clave para encontrar el equilibrio entre seguridad y usabilidad.
-
 🎯 ¿Qué haremos en este proyecto?
 
 En este MVP construiremos un sistema de identificación facial usando una arquitectura completamente serverless sobre AWS. A través de un flujo automatizado, una imagen es enviada desde un cliente (por ahora, vía script Python), almacenada en Amazon S3, procesada por AWS Lambda, y analizada por Amazon Rekognition, que compara el rostro recibido con los registros previamente almacenados. Los resultados de esta verificación son guardados en Amazon DynamoDB para su trazabilidad y consulta.
